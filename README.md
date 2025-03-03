@@ -1,6 +1,10 @@
 # Fonts Repository
-**此处显示的所有字体都是开源的**
-**All fonts that appear here are open sourced**
+<br>
+**此处显示的所有字体都是开源的**<br>
+**All fonts that appear here are open sourced**<br>
+**遵循字体开源协议 (OFL)**<br>
+**Follow the Open Font License (OFL)**
+<br>
 
 ## [Enchant Incantations](https://github.com/tempuseeker/Open-source-Fonts/tree/main/EnchantIncantations)
 |Digit|Punctuations|Special|English|中文|日本語|Русский|
