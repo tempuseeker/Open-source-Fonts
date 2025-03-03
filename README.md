@@ -15,4 +15,5 @@
 |--|--|--|--|--|--|--|
 |Yes √|No ×|No ×|Yes √|无 ×|無し ×|Нет ×|
 
+**Font "Enchant Incantations" Preview**
 ![Preview Image](https://github.com/tempuseeker/Open-source-Fonts/blob/main/EnchantIncantations/Enchant_Incantations_V.png)
