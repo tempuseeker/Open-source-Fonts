@@ -10,12 +10,9 @@
 **Follow the Open Font License (OFL)**
 <br>
 
-## [Enchant Incantations](https://github.com/tempuseeker/Open-source-Fonts/tree/main/EnchantIncantations)
+## Syilvais Incantations
 |Digit|Punctuations|Special|English|中文|日本語|Русский|
 |--|--|--|--|--|--|--|
 |Yes √|No ×|No ×|Yes √|无 ×|無し ×|Нет ×|
 
-**Font "Enchant Incantations" Preview**
-<br>
-
-![Preview Image](https://github.com/tempuseeker/Open-source-Fonts/blob/main/EnchantIncantations/Enchant_Incantations_V.png)
+![Preview](https://github.com/tempuseeker/Open-source-Fonts/blob/100e6ece7560a549b58a7ffcc047646ce29e51c1/Syilvais%20Incantations/Syilvais%20Incantations%20Preview.png)
