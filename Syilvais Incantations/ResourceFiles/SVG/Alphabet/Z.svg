@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 216">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Alphabet_5" data-name="Alphabet 5">
+    <path id="Z" class="cls-1" d="m126,90c9.94,0,18-8.06,18-18h0V18h63c4.97,0,9-4.03,9-9h0C216,4.03,211.97,0,207,0H9C4.03,0,0,4.03,0,9h0c0,4.97,4.03,9,9,9h117v45c0,4.97-4.03,9-9,9H0v126h0c0,9.94,8.06,18,18,18h189c4.97,0,9-4.03,9-9h0c0-4.97-4.03-9-9-9H27c-4.97,0-9-4.03-9-9v-99h108Z"/>
+  </g>
+</svg>
