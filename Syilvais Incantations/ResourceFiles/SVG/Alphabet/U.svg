@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_图层_2" data-name="图层 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 216 216">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 0px;
+      }
+    </style>
+  </defs>
+  <g id="Alphabet_4" data-name="Alphabet 4">
+    <g id="U">
+      <path class="cls-1" d="m9,0h0C4.03,0,0,4.03,0,9v207s18,0,18,0h117c4.97,0,9-4.03,9-9h0c0-4.97-4.03-9-9-9H18V9C18,4.03,13.97,0,9,0Z"/>
+      <path class="cls-1" d="m198,0h-45c-4.97,0-9,4.03-9,9h0c0,4.97,4.03,9,9,9h36c4.97,0,9,4.03,9,9v117h-45c-4.97,0-9,4.03-9,9h0c0,4.97,4.03,9,9,9h45v45c0,4.97,4.03,9,9,9h0c4.97,0,9-4.03,9-9V18c0-9.94-8.06-18-18-18h0Z"/>
+    </g>
+  </g>
+</svg>
